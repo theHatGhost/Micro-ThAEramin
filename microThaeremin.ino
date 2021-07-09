@@ -18,6 +18,8 @@ Developed for the excellent AE modular synth system - Thanks Tangible Waves! htt
 
 Designed to be used with Adafruits M0 line of boards, such as the Metro/Feather/ItsyBitsy M0 Expresss 
 or other ATSAMD21 Cortex M0 processor boards with a DAC, but will also work with the Arduino Nano/uno with some tweaking
+
+"Make your own damn Art!" - Bob and Roberta Smith
 *******************************************************************/
 #include <Wire.h>
 #include <SPI.h>
